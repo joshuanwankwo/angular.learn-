@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "hello-word"
+    }
+  },
+  "defaultProject": "hello-word",
+  "cli": {
+    "analytics": false
+  }
 }
